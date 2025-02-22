@@ -43,6 +43,6 @@ javac ChatClient.java
 java ChatClient
 ```
 ### output:
-
+![Image](https://github.com/user-attachments/assets/9a1583bd-15f5-4d30-864a-32da82fee275)
 
 
