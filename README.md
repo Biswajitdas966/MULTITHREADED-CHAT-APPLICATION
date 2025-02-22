@@ -1,9 +1,12 @@
 # MULTITHREADED-CHAT-APPLICATION
 
+COMPANY: CODTECH IT SOLUTIONS
+NAME: Biswajit Das
+INTERN ID: CT08PEZ
+DOMAIN: JAVA PROGRAMMING
+DURATION: 4 WEEKS
+MENTOR: NEELA SANTHOSH KUMAR
 
-
-
-# Java Client-Server Chat Application
 
 ## 📌 Project Overview
 This is a simple **multi-client chat application** built using **Java Sockets and Multithreading**. It allows multiple clients to connect to a central server and communicate in real-time.
@@ -19,7 +22,7 @@ This is a simple **multi-client chat application** built using **Java Sockets an
 Task3_ChatApplication/
 ├── src/
 │   ├── ChatServer.java      # Server-side code
-│   ├── ClientHandler.java   # Handles multiple clients
+│   ├── ChatServer$ClientHandler.class   # Handles multiple clients
 │   ├── ChatClient.java      # Client-side code
 ├── README.md
 ```
@@ -32,7 +35,7 @@ Task3_ChatApplication/
 ## 🛠️ How to Run
 ### 1️⃣ Start the Server
 ```sh
-javac ChatServer.java ClientHandler.java
+javac ChatServer.java
 java ChatServer
 ```
 
